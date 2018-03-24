@@ -164,7 +164,6 @@
             <systemPropertyVariables>
               <okhttp.platform>${okhttp.platform}</okhttp.platform>
             </systemPropertyVariables>
-            <redirectTestOutputToFile>true</redirectTestOutputToFile>
             <properties>
               <!--
                 Configure a listener for enforcing that no uncaught exceptions issue from OkHttp
